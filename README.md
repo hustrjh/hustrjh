@@ -18,8 +18,13 @@ Here are some ideas to get you started:
 ### Github Stats
 ![hustrjh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hustrjh&show_icons=true&theme=tokyonight)
 
+### Github Activity Graph
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=hustrjh&theme=xcode" /> </div>
+
 ### Top Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hustrjh&layout=compact)](https://github.com/hustrjh/github-readme-stats)
 
 ### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/hustrjh/count.svg)
+<div> <img src="https://visitor-badge.glitch.me/badge?page_id=hustrjh" /> </div>
+
+<h1 align="center"> <a href=""> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome to my homepage.&center=true&size=27"> </a> </h1>
