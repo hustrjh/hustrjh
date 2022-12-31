@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Github Stats
+![hustrjh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hustrjh&show_icons=true&theme=tokyonight)
+
+### Top Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hustrjh&layout=compact)](https://github.com/hustrjh/github-readme-stats)
+
+### Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/hustrjh/count.svg)
