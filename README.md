@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <!--动态打字特效-->
 <h1 align="center">
-  <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;Hi there 👋, welcome to my homepage!&center=true&size=27">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;hustrjh祝您今天愉快!&center=true&size=27">
   </a>
 </h1>
 
