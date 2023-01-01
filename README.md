@@ -1,5 +1,3 @@
-<!--### Hi there 👋-->
-
 <!--
 **hustrjh/hustrjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <!--动态打字特效-->
-<h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C%20there!;Welcome%20to%20my%20homepage!&center=true&size=27">
+<h1 align="left">
+  <a href="">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C%20there👋;Welcome%20to%20my%20homepage!&center=true&size=27">
   </a>
 </h1>
 
@@ -28,12 +26,8 @@ Here are some ideas to get you started:
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hustrjh&theme=tokyonight" />
 </p>
 
-### Profile-3D
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/hustrjh/hustrjh/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
-
 ### Github Activity Graph
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=hustrjh&theme=xcode" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hustrjh&theme=tokyo-night&custom_title=My%20Contribution%20Graph" /> </div>
 
 ### Top Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hustrjh&layout=compact)](https://github.com/hustrjh/github-readme-stats)
