@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **hustrjh/hustrjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--动态打字特效-->
+<h1 align="center">
+  <a href="">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;Hi there 👋, welcome to my homepage!&center=true&size=27">
+  </a>
+</h1>
+
 ### Github Stats
-![hustrjh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hustrjh&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hustrjh&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hustrjh&theme=tokyonight" />
+</p>
+
+### Profile-3D
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/hustrjh/hustrjh/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
 ### Github Activity Graph
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=hustrjh&theme=xcode" /> </div>
@@ -26,5 +39,3 @@ Here are some ideas to get you started:
 
 ### Visitor Count
 <div> <img src="https://visitor-badge.glitch.me/badge?page_id=hustrjh" /> </div>
-
-<h1 align="center"> <a href=""> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome to my homepage.&center=true&size=27"> </a> </h1>
